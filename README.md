@@ -2,9 +2,13 @@
 
 🐣 Please follow me for new updates https://twitter.com/camenduru
 
-## Colab 🦒
+## 🦒 Colab 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/one-shot-talking-face/blob/main/one_shot_talking_face.ipynb)
+
+## 🤗 Hugging Face 
+
+https://huggingface.co/spaces/camenduru/one-shot-talking-face
 
 ## Main Repo
 https://github.com/FuxiVirtualHuman/AAAI22-one-shot-talking-face
