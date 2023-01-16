@@ -6,12 +6,11 @@
 
 ## 🤗 Hugging Face 
 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/camenduru/one-shot-talking-face)
 https://huggingface.co/spaces/camenduru/one-shot-talking-face
 
 ## Main Repo
 https://github.com/FuxiVirtualHuman/AAAI22-one-shot-talking-face
-
-
 
 ## Output
 https://user-images.githubusercontent.com/54370274/212089495-530f9b8e-5946-4db7-add7-de160d3f9da5.mp4
